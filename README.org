@@ -1,4 +1,4 @@
 * About me
   - I am drshapeless.
-  - I maintain a personal website, [[https://drshapeless.com][drshapeless.com]]
+  - I maintain a personal website, [[https://drshapeless.com]]
   - I live in Emacs.
